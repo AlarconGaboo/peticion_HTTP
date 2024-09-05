@@ -1,4 +1,4 @@
-// Array de ejemplo, puedes usar el array resultante del ejercicio anterior
+// Array de ejemplo, puedo usar el array resultante del ejercicio anterior
 let mascotasJson = [
     { nombre: "fluffy", mascota: "true", animal: "gato", edadHumana: "7" },
     { nombre: "Balto", mascota: "true", animal: "perro", edadHumana: "11" },
